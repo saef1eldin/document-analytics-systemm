@@ -9,7 +9,7 @@ import { Progress } from '@/components/ui/progress.jsx'
 import { Upload, Search, FileText, BarChart3, Clock, Database, Filter, ChevronLeft, ChevronRight } from 'lucide-react'
 import './App.css'
 
-const API_BASE_URL = 'http://localhost:5000/api'
+const API_BASE_URL = 'https://document-analytics-systemm.onrender.com/api'
 
 // Component for displaying match contexts with navigation
 function MatchContextViewer({ matchContexts, totalMatches }) {
