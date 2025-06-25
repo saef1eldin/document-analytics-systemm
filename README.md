@@ -62,7 +62,7 @@ Then go to: `http://localhost:5173`
 You can deploy the backend and frontend separately using any cloud platform. Suggested services:
 
 - **Backend:** DigitalOcean / Heroku / Render
-- **Frontend:** Vercel / Netlify
+- **Frontend:** Vercel / Netlify / Render
 
 > Replace `localhost` URLs in frontend with your deployed backend API URL.
 
@@ -81,22 +81,11 @@ The system provides:
 2. **Search**: Keywords are matched across the document contents.
 3. **Highlighting**: Search results are highlighted.
 4. **Classification**: ML model assigns category based on content and predefined rules.
-
-## 📌 To-Do
-
-- [ ] Enhance classifier with deep learning (optional)
-- [ ] Add user authentication
-- [ ] Cloud file storage (e.g., AWS S3)
-
-## 🧑‍💻 Author & License
-
-- Author: *Your Name or Team*
-- License: MIT
-
+   
 ## 🌐 Live Demo
 
-> _Coming soon! Add your cloud deployment link here._
+> https://document-analytics-systemm-2.onrender.com/
 
 ## 📎 GitHub Repository
 
-> _Share the public GitHub repo link here_
+> https://github.com/saef1eldin/document-analytics-systemm
